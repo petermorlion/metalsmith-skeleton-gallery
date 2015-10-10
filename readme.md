@@ -46,3 +46,7 @@ Determines what the root of your images are.
 ### columns
 
 Determines the column property for Skeleton CSS. By default, `three columns` is used a CSS class for the div around the image. If you need something else instead of `three``, specify it here.
+
+## License
+
+[MIT](https://opensource.org/licenses/MIT)
