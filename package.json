@@ -1,0 +1,16 @@
+{
+  "name": "metalsmith-skeleton-gallery",
+  "version": "0.0.1",
+  "description": "A Metalsmith plugin to generate a gallery, using the Skeleton CSS framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "metalsmith",
+    "skeletoncss",
+    "gallery"
+  ],
+  "author": "Peter Morlion",
+  "license": "MIT"
+}
